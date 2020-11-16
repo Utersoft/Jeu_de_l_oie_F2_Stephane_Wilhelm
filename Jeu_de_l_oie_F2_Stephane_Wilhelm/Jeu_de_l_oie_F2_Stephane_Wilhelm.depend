@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605545051 source:c:\users\djame\documents\github\jeu_de_l_oie_f2_stephane_wilhelm\jeu_de_l_oie_f2_stephane_wilhelm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
